@@ -57,7 +57,7 @@ public class CarSorter {
 					if(yearsChecked.contains(new Integer(year))) {
 						continue;
 					}
-					
+				 	
 					yearsChecked.add(new Integer(year));
 					
 					for(Car car : cars) {

@@ -61,7 +61,7 @@ public class Car {
 	public void setTCCRating(double tCCRating) {
 		TCCRating = tCCRating;
 	}
-
+ 
 	public Car() {
 		super();
 	}

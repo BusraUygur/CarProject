@@ -13,7 +13,7 @@ public class CarDealer {
 		cars.add(new Car("Hyundai",  "Sante Fe",  "Grey",  2016 , 24950, 8 ,27));
 		cars.add(new Car("Mazda",  "CX-5",  "Red" , 2017 , 21795, 8, 35));
 		cars.add(new Car("Subaru",  "Forester",  "Blue", 2016 , 22395, 8.4, 32));
-
+ 
 		return cars;
 	}
 }
