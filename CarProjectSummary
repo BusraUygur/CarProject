@@ -1,0 +1,6 @@
+You can open the link and see my codes with Java 8.
+There are 4 classes, Car, CarDealer, CarSorter and Main.
+In Car class I put my variables using encapsulation so that I can use them in other classes.
+In CarDealer class I put my cars and their features in a List to find the functionality in the questions.
+In Carsorter class I sorted my Lists using Collections class with Lambda expressions.
+In Main class I have my main method and I run the methods from CarSorter class.
